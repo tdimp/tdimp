@@ -1,6 +1,6 @@
-# Hi there 👋
+# Hi there 👋, I'm Thomas
 
-## My name is Thomas, and I am a software developer.
+## I am a software developer passionate about solving complex problems and creating solutions that improve the user experience.
 
 ### :screwdriver: :computer: Tools and Technologies :floppy_disk: :pencil2:
 
