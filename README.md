@@ -10,8 +10,6 @@
 - Python
 - Rails
 - React
-
-Check out my [pinned projects](https://github.com/tdimp) for examples of my work!
 ___
 
 ### I am currently working on **Daily Hat Trick**, my full stack NHL stats tracking app. 
@@ -19,6 +17,8 @@ ___
 - [Back End](https://github.com/tdimp/daily-hat-trick-back)
 
 I hope to complete some minor refactors, add a few more features, and then deploy it for hockey enthusiasts worldwide!
+
+Check out my pinned projects below for more examples of my work!
 
 ## Addenda
 
