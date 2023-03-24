@@ -16,7 +16,7 @@ ___
 - [Front End](https://github.com/tdimp/daily-hat-trick-front)
 - [Back End](https://github.com/tdimp/daily-hat-trick-back)
 
-I hope to complete some minor refactors, add a few more features, and then deploy it for hockey enthusiasts worldwide!
+I will complete some minor refactors, add a few more features, and then deploy it for hockey enthusiasts worldwide!
 
 Check out my pinned projects below for more examples of my work!
 
