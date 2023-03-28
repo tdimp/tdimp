@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Thomas
+# Hi there, I'm Thomas 👋
 
 ## I am a software developer passionate about solving complex problems and creating solutions that improve the user experience.
 
