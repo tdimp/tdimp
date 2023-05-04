@@ -4,7 +4,7 @@
 
 ### :screwdriver: :computer: Tools and Technologies :floppy_disk: :pencil2:
 
-- JavaScrip
+- JavaScript
 - TypeScript
 - Ruby
 - Python
