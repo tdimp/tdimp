@@ -10,7 +10,7 @@
 - Python
 - Rails
 - React
-- C#
+- C#/.NET
 ___
 
 ### I am currently working on **Daily Hat Trick**, my full stack NHL stats tracking app. 
