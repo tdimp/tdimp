@@ -4,20 +4,19 @@
 
 ### :screwdriver: :computer: Tools and Technologies :floppy_disk: :pencil2:
 
-- JavaScript
-- TypeScript
 - Ruby
 - Python
+- JavaScript
+- TypeScript
 - Rails
 - React
-- C#/.NET
 ___
 
 ### I am currently working on **Daily Hat Trick**, my full stack NHL stats tracking app. 
 - [Front End](https://github.com/tdimp/daily-hat-trick-front)
 - [Back End](https://github.com/tdimp/daily-hat-trick-back)
 
-I am finalizing some additional features and hope to deploy soon!
+I recently migrated the backend to the new NHL API. I plan to integrate more of this newly-accessible data soon!
 
 Check out my pinned projects below for more examples of my work!
 
